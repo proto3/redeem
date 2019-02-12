@@ -20,7 +20,7 @@ Software features:
 ## Complete Debian based eMMC flasher image  
 Most users should probably use the [Kamikaze CNC image](http://wiki.thing-printer.com/index.php?title=Kamikaze), it is a complete BeagleBone eMMC flasher image that comes with Redeem. 
 
-## Debain package
+## Debian package
 If you have a different Debian distro, you can use the .deb packages form the thing-printer feed:  
 ```
 wget -O - http://kamikaze.thing-printer.com/apt/public.gpg | apt-key add -
